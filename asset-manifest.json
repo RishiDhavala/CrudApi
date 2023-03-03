@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrudApi/static/css/main.d8075e3d.css",
+    "main.js": "/CrudApi/static/js/main.f347d967.js",
+    "static/js/787.c9e4ddbe.chunk.js": "/CrudApi/static/js/787.c9e4ddbe.chunk.js",
+    "index.html": "/CrudApi/index.html",
+    "main.d8075e3d.css.map": "/CrudApi/static/css/main.d8075e3d.css.map",
+    "main.f347d967.js.map": "/CrudApi/static/js/main.f347d967.js.map",
+    "787.c9e4ddbe.chunk.js.map": "/CrudApi/static/js/787.c9e4ddbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8075e3d.css",
+    "static/js/main.f347d967.js"
+  ]
+}
